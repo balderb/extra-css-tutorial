@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=QqCTmSDY8qI&list=PLLnpHn493BHH6DkHPhduhco5XavNA9
 https://www.youtube.com/watch?v=4ZzLqyJ_qBo&list=PLLnpHn493BHH6DkHPhduhco5XavNA9JaD&index=4
 etc.. 
 
+DRY = do not repeat yourself in css!! 
